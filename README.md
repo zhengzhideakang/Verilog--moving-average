@@ -2,7 +2,7 @@
 
 Gitee与Github同步：
 
-[Verilog功能模块--滑动平均值: Verilog功能模块-滑动平均值（使用FIFO） (gitee.com)](https://gitee.com/xuxiaokang/verilog-functional-module--moving-average)
+[Verilog功能模块--滑动平均值: Verilog功能模块-滑动平均值（使用FIFO） (gitee.com)](https://gitee.com/xuxiaokang/verilog-function-module--moving-average)
 
 [zhengzhideakang/Verilog--moving-average: Verilog功能模块——滑动平均值（使用FIFO） (github.com)](https://github.com/zhengzhideakang/Verilog--moving-average)
 
